@@ -1,0 +1,7 @@
+{
+  "name": "CyberShield AI",
+  "description": "AI-powered cybersecurity defense platform designed for Nepal, providing suspicious message detection, safe URL risk analysis, interactive security learning, and an emergency scam advisory assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
